@@ -50,6 +50,7 @@ def total_gross(source)
     key = list_of_directors(source)[counter]
     counter += 1
   end
+  key
 end
 
 
